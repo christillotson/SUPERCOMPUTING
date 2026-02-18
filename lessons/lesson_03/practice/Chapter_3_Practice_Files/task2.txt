@@ -1,0 +1,6 @@
+1	A	Eat
+2	B	Earth
+3	C	Eggplant
+4	D	bonanza
+5	E	balloon
+6	F	Billow
