@@ -78,7 +78,7 @@ paste <(grep "^>" GCF_000001735.4_TAIR10.1_genomic.fna) <(grep -v "^>" GCF_00000
 
 Output too large to show
 
-NOTE: last instruction is not possible. Online Github repo cannot reflect HPC for assignment_03 because the data file is too big (and even if it were a little smaller, shouldn't we not be putting that in there anyway?). To solve this, in the assignment_03 folder, I had to cd into data, and touch an empty.txt file. Then, I went to the SUPERCOMPUTING directory and edited my .gitignore using nano .gitignore and added this file to be ignored.
+NOTE: last instruction is not possible. Online Github repo cannot reflect HPC for assignment_03 because the data file is too big (and even if it were a little smaller, shouldn't we not be putting that in there anyway?). To solve this, in the assignment_03 folder, I had to cd into data, and touch an empty.txt file. Then, I went to the SUPERCOMPUTING directory using cd .. a few times and edited my .gitignore using nano .gitignore and added the data file to be ignored.
 
 # Task 5
 
