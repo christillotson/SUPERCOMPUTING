@@ -1,0 +1,5 @@
+#!/bin/bash
+in=$1
+set -ueo pipefail
+echo $(head -1 ${in})
+echo $(tail -1 ${in})
