@@ -16,3 +16,5 @@ assignments/assignment_05/data/raw/*.fastq
 assignments/assignment_05/data/trimmed/*.fastq
 
 lessons/lesson_06/data/*.fast*
+
+assignments/assignment_06/data/*
