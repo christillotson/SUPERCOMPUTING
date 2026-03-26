@@ -18,3 +18,8 @@ assignments/assignment_05/data/trimmed/*.fastq
 lessons/lesson_06/data/*.fast*
 
 assignments/assignment_06/data/*
+assignments/assignment_07/*.fastq
+assignments/assignment_07/data/raw/*
+assignments/assignment_07/data/clean/*
+assignments/assignment_07/data/*.csv
+assignments/assignment_07/data/*.fna
